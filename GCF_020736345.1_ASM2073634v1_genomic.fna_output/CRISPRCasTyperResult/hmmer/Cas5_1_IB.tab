@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_4018   -            249 TIGR02592            TIGR02592    241   0.00028   18.7   0.0   1   1     1e-07   0.00049   17.9   0.0     3   141     5   154     3   158 0.76 # 4220472 # 4221218 # -1 # ID=1_4018;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.580
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas5_1_IB.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Cas5_1_IB.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas5_1_IB.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:22:16 2023
+# [ok]

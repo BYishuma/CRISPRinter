@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_4433   -            377 V_U2                 -            496   7.9e-35  118.8   0.1   1   3    0.0073        35    1.2   0.0     5    50     6    47     2    49 0.84 # 4653124 # 4654254 # -1 # ID=1_4433;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+NZ_CP085987.1_4433   -            377 V_U2                 -            496   7.9e-35  118.8   0.1   2   3   8.2e-28     4e-24   83.5   0.0    96   352    44   276    40   277 0.88 # 4653124 # 4654254 # -1 # ID=1_4433;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+NZ_CP085987.1_4433   -            377 V_U2                 -            496   7.9e-35  118.8   0.1   3   3   5.8e-12   2.8e-08   31.2   0.0   373   439   277   356   274   374 0.90 # 4653124 # 4654254 # -1 # ID=1_4433;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas12f3_0_CAS-V-F.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Cas12f3_0_CAS-V-F.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas12f3_0_CAS-V-F.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:23:07 2023
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_2029   -            247 cd06127              -            160     3e-38  129.6   0.0   1   1   5.9e-41   4.1e-38  129.2   0.0     1   159    12   178    12   179 0.97 # 2078147 # 2078887 # -1 # ID=1_2029;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.507
+NZ_CP085987.1_416    -            233 cd06127              -            160   9.5e-30  102.0   0.0   1   1   2.4e-32   1.6e-29  101.2   0.0     2   159     4   147     3   148 0.93 # 418957 # 419655 # -1 # ID=1_416;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.521
+NZ_CP085987.1_859    -            216 cd06127              -            160   3.1e-21   74.3   0.0   1   1   5.2e-24   3.6e-21   74.1   0.0     1   159    20   194    20   195 0.88 # 878394 # 879041 # 1 # ID=1_859;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.535
+NZ_CP085987.1_183    -            477 cd06127              -            160     8e-18   63.2   0.2   1   2   4.1e-20   2.9e-17   61.4   0.0     2   158    14   194    13   196 0.82 # 204940 # 206370 # -1 # ID=1_183;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.544
+NZ_CP085987.1_183    -            477 cd06127              -            160     8e-18   63.2   0.2   2   2      0.59   4.1e+02   -0.8   0.1    88   133   394   442   391   460 0.74 # 204940 # 206370 # -1 # ID=1_183;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.544
+NZ_CP085987.1_2531   -            182 cd06127              -            160   2.1e-11   42.3   0.1   1   1   6.4e-14   4.5e-11   41.3   0.1     1   153     9   165     9   171 0.81 # 2644952 # 2645497 # -1 # ID=1_2531;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.548
+NZ_CP085987.1_247    -            190 cd06127              -            160   1.4e-06   26.7   0.4   1   1   2.9e-08     2e-05   22.9   0.4     1   157     4   172     4   175 0.76 # 269830 # 270399 # -1 # ID=1_247;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.505
+NZ_CP085987.1_2191   -            784 cd06127              -            160   0.00061   18.1   0.0   1   2   3.8e-06    0.0026   16.0   0.0    66   102   201   241   188   263 0.84 # 2266735 # 2269086 # 1 # ID=1_2191;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.565
+NZ_CP085987.1_2191   -            784 cd06127              -            160   0.00061   18.1   0.0   2   2       1.6   1.1e+03   -2.2   0.0    47    77   468   499   458   504 0.77 # 2266735 # 2269086 # 1 # ID=1_2191;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.565
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/DEDDh_0_CAS-I-II-III-IV-V-VI.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/DEDDh_0_CAS-I-II-III-IV-V-VI.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/DEDDh_0_CAS-I-II-III-IV-V-VI.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:22:08 2023
+# [ok]

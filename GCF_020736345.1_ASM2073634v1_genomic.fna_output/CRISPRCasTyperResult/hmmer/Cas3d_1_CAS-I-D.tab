@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_2986   -            616 icity0058            -            627    0.0062   12.9   0.0   1   2   4.1e-06      0.02   11.3   0.0    20    98    27   104     7   119 0.82 # 3155616 # 3157463 # -1 # ID=1_2986;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.545
+NZ_CP085987.1_2986   -            616 icity0058            -            627    0.0062   12.9   0.0   2   2     0.032   1.6e+02   -1.6   0.0   332   354   315   337   282   358 0.72 # 3155616 # 3157463 # -1 # ID=1_2986;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.545
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3d_1_CAS-I-D.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Cas3d_1_CAS-I-D.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3d_1_CAS-I-D.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:21:51 2023
+# [ok]

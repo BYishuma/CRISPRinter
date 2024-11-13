@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_474    -            637 C19_Cas3             -            626   2.9e-07   27.2   0.0   1   1   6.3e-10   6.1e-07   26.1   0.0    11    72    16    79    10    97 0.76 # 470310 # 472220 # 1 # ID=1_474;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.564
+NZ_CP085987.1_4386   -            445 C19_Cas3             -            626   1.5e-05   21.5   0.0   1   2   1.2e-05     0.011   12.0   0.0    29   182    40   196    37   213 0.68 # 4617359 # 4618693 # -1 # ID=1_4386;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.543
+NZ_CP085987.1_4386   -            445 C19_Cas3             -            626   1.5e-05   21.5   0.0   2   2   0.00039      0.37    7.0   0.0   319   421   300   404   276   414 0.70 # 4617359 # 4618693 # -1 # ID=1_4386;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.543
+NZ_CP085987.1_4023   -            732 C19_Cas3             -            626   1.8e-05   21.2   0.3   1   2    0.0019       1.8    4.7   0.0    32    52   291   311   273   342 0.65 # 4224893 # 4227088 # -1 # ID=1_4023;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.500
+NZ_CP085987.1_4023   -            732 C19_Cas3             -            626   1.8e-05   21.2   0.3   2   2   4.2e-06    0.0041   13.5   0.1   138   366   438   667   424   693 0.62 # 4224893 # 4227088 # -1 # ID=1_4023;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.500
+NZ_CP085987.1_636    -            458 C19_Cas3             -            626    0.0087   12.4   0.1   1   3     0.026        26    0.9   0.0    30    79    40    95    31   111 0.63 # 641082 # 642455 # 1 # ID=1_636;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.553
+NZ_CP085987.1_636    -            458 C19_Cas3             -            626    0.0087   12.4   0.1   2   3      0.11   1.1e+02   -1.1   0.0   138   182   149   192   141   205 0.66 # 641082 # 642455 # 1 # ID=1_636;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.553
+NZ_CP085987.1_636    -            458 C19_Cas3             -            626    0.0087   12.4   0.1   3   3   0.00022      0.21    7.8   0.0   288   366   266   342   247   366 0.76 # 641082 # 642455 # 1 # ID=1_636;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.553
+NZ_CP085987.1_3190   -            694 C19_Cas3             -            626     0.014   11.7   0.1   1   2    0.0076       7.4    2.7   0.0    35    70   294   331   271   338 0.76 # 3380975 # 3383056 # -1 # ID=1_3190;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.585
+NZ_CP085987.1_3190   -            694 C19_Cas3             -            626     0.014   11.7   0.1   2   2   0.00047      0.46    6.7   0.0   292   341   522   568   512   617 0.75 # 3380975 # 3383056 # -1 # ID=1_3190;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.585
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3_0_CAS-I-D.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Cas3_0_CAS-I-D.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3_0_CAS-I-D.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:22:05 2023
+# [ok]

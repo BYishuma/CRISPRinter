@@ -1,0 +1,4 @@
+	sbjctID	times	taxid	host
+0	CP051275.1	5	Salmonella phage SW-37	"Salmonella enterica subsp. enterica serovar Worthington
+ OLF-FSR1_WB_Partridge_SW-37"
+1	MT764230.1	2	Haloquadratum phage sp.	

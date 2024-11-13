@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_3024   -            420 mkCas0128            -             94     0.024   13.2   0.3   1   2      0.11   5.2e+02   -0.7   0.0    38    73   179   214   168   230 0.74 # 3193178 # 3194437 # -1 # ID=1_3024;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.528
+NZ_CP085987.1_3024   -            420 mkCas0128            -             94     0.024   13.2   0.3   2   2   2.9e-05      0.14   10.8   0.4    40    65   239   264   202   277 0.78 # 3193178 # 3194437 # -1 # ID=1_3024;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.528
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas2_7_CAS-I-II-III-IV-V-VI.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Cas2_7_CAS-I-II-III-IV-V-VI.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas2_7_CAS-I-II-III-IV-V-VI.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:22:18 2023
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_3343   -           1181 icity0106            -            488     0.071    9.9   3.8   1   2    0.0025        12    2.6   0.5   266   333   327   402   309   407 0.72 # 3541656 # 3545198 # 1 # ID=1_3343;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.602
+NZ_CP085987.1_3343   -           1181 icity0106            -            488     0.071    9.9   3.8   2   2   5.7e-05      0.28    8.0   0.3   183   236   409   471   402   497 0.77 # 3541656 # 3545198 # 1 # ID=1_3343;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.602
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/TPR_0_CAS-III-B.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/TPR_0_CAS-III-B.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/TPR_0_CAS-III-B.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:22:58 2023
+# [ok]

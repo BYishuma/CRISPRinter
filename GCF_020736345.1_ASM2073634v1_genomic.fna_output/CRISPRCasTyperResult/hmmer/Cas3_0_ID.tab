@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_4386   -            445 TIGR03158            TIGR03158    357   5.8e-05   20.4   0.0   1   2   6.9e-06     0.011   12.9   0.0    17    63    44   100    38   156 0.82 # 4617359 # 4618693 # -1 # ID=1_4386;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.543
+NZ_CP085987.1_4386   -            445 TIGR03158            TIGR03158    357   5.8e-05   20.4   0.0   2   2    0.0012         2    5.5   0.0   206   356   168   339   152   340 0.62 # 4617359 # 4618693 # -1 # ID=1_4386;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.543
+NZ_CP085987.1_3674   -            630 TIGR03158            TIGR03158    357    0.0074   13.5   0.0   1   2   3.3e-05     0.053   10.7   0.0    17    75    46   110    44   154 0.77 # 3891020 # 3892909 # 1 # ID=1_3674;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.583
+NZ_CP085987.1_3674   -            630 TIGR03158            TIGR03158    357    0.0074   13.5   0.0   2   2     0.045        73    0.4   0.0   263   356   235   336   199   337 0.60 # 3891020 # 3892909 # 1 # ID=1_3674;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.583
+NZ_CP085987.1_4023   -            732 TIGR03158            TIGR03158    357     0.042   11.0   0.1   1   2    0.0046       7.4    3.6   0.0    15    36   290   311   277   369 0.67 # 4224893 # 4227088 # -1 # ID=1_4023;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.500
+NZ_CP085987.1_4023   -            732 TIGR03158            TIGR03158    357     0.042   11.0   0.1   2   2    0.0041       6.6    3.8   0.1   318   356   617   655   434   656 0.62 # 4224893 # 4227088 # -1 # ID=1_4023;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.500
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3_0_ID.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Cas3_0_ID.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3_0_ID.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:22:51 2023
+# [ok]

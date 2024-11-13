@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_3674   -            630 icity0004            -            639     0.017   11.6   0.0   1   2    0.0027       6.5    3.1   0.0    44   100    44   101    32   107 0.78 # 3891020 # 3892909 # 1 # ID=1_3674;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.583
+NZ_CP085987.1_3674   -            630 icity0004            -            639     0.017   11.6   0.0   2   2    0.0003      0.72    6.3   0.0   354   417   295   361   271   380 0.75 # 3891020 # 3892909 # 1 # ID=1_3674;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.583
+NZ_CP085987.1_4386   -            445 icity0004            -            639     0.025   11.1   0.1   1   2    0.0009       2.2    4.7   0.0    45    70    43    68    38   100 0.87 # 4617359 # 4618693 # -1 # ID=1_4386;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.543
+NZ_CP085987.1_4386   -            445 icity0004            -            639     0.025   11.1   0.1   2   2     0.001       2.5    4.5   0.0   354   402   298   349   213   363 0.78 # 4617359 # 4618693 # -1 # ID=1_4386;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.543
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3d_0_CAS-I-D.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Cas3d_0_CAS-I-D.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Cas3d_0_CAS-I-D.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:22:34 2023
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_CP085987.1_2194   -            271 icity0029            -            284   5.8e-05   20.7   0.8   1   3     0.047   1.1e+02    0.0   0.1    44    68     5    28     2    43 0.78 # 2272932 # 2273744 # -1 # ID=1_2194;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=3-4bp;gc_cont=0.541
+NZ_CP085987.1_2194   -            271 icity0029            -            284   5.8e-05   20.7   0.8   2   3     0.026        63    0.9   0.0    59   101   124   166   119   177 0.82 # 2272932 # 2273744 # -1 # ID=1_2194;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=3-4bp;gc_cont=0.541
+NZ_CP085987.1_2194   -            271 icity0029            -            284   5.8e-05   20.7   0.8   3   3   5.6e-07    0.0014   16.2   0.0   224   280   207   265   195   269 0.83 # 2272932 # 2273744 # -1 # ID=1_2194;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=3-4bp;gc_cont=0.541
+NZ_CP085987.1_2274   -            380 icity0029            -            284     0.022   12.2   1.3   1   1   1.3e-05     0.031   11.7   1.3   224   278     8    57     2    62 0.80 # 2367415 # 2368554 # -1 # ID=1_2274;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.539
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Mem_DnaJ_0_CAS-III-AM.hmm
+# Target file:     /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa
+# Option settings: hmmsearch --domtblout /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/hmmer/Mem_DnaJ_0_CAS-III-AM.tab /home/ubuntu/Downloads/crisprinter/CRISPRinter/data/Profiles/Mem_DnaJ_0_CAS-III-AM.hmm /home/ubuntu/Downloads/FYPdata/output_Salmonella_enterica_page1/GCF_020736345.1_ASM2073634v1_genomic.fna_output/CRISPRCasTyperResult/proteins.faa 
+# Current dir:     /home/ubuntu/Downloads/crisprinter/CRISPRinterLOCAL (copy)
+# Date:            Sat Dec  2 15:21:54 2023
+# [ok]
